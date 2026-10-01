@@ -16,4 +16,4 @@ for e in range(len(x)):
 end= time.time()
 
 print(f"{end - start:.10f}, seconds")
-print(x
+print(x)
